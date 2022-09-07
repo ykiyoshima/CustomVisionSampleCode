@@ -1,5 +1,6 @@
 # 20220912_Azure活用講座サンプルコード
-※実際にCustom Visionを使っているのはpredict.pyだけなので、手っ取り早くCustom Visionの使用例をご覧になりたい方はpredic.pyの中身をご参照ください。
+※実際にCustom Visionを使っているのはpredict.pyだけなので、手っ取り早くCustom Visionの使用例をご覧になりたい方はpredict.pyの中身をご参照ください。  
+※`librosa`、`youtube_dl`、`matplotlib`などの外部ライブラリを使用しています。ソースコードをご参照の上適宜インストールをお願いいたします。
 ## 使い方
 
 1. musicフォルダ（音楽ファイルを格納するためのフォルダ）を作成する。  
